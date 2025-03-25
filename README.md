@@ -34,7 +34,7 @@ and advanced algorithm exercises — all written by me! ✨
 - 本王的 GitHub: [Renace007](https://github.com/Renace007)  
 - 一起学习 C ，一起成长！✨  
 
----
+---（小王八--老甲 独家赞助）
 
 ## 💡 License  
 This project is licensed under the MIT License.  
